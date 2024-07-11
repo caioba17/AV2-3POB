@@ -1,0 +1,5 @@
+nome;cpf;email;endereco;cep
+Abraão Sarmiento;123456;asarmiento@gmail.com;rua clarimundo de melo;20000000
+Alcides Soeiro;789456;soeiro@gmail.com;rua clarimundo de melo;20000000
+Adosindo Cascais;456125;ascais@gmail.com;rua clarimundo de melo;20000000
+Adriano Semedo;124578;semedo@gmail.com;rua clarimundo de melo;20000000
